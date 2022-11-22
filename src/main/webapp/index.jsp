@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! application deployment into tomcat using jenkins,maven,SonarQube Quality Gates & Nexus - pipeline project</h2>
+<h2>Hello World! Deployment Using Jenkins and Sonar Qube integration </h2>
 </body>
 </html>
